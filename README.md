@@ -468,6 +468,8 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
       * [https://www.youtube.com/watch?v=Bc5l133LDgg](https://www.youtube.com/watch?v=Bc5l133LDgg)
   36. 0x24 | Her yazılım geliştiriciye siber güvenlik bakış açısını öğretiyorum gün 1475761.
       * [https://www.youtube.com/watch?v=DJ5QnSUywUs](https://www.youtube.com/watch?v=DJ5QnSUywUs)
+  37. 0x25 | Hellooo CHAAT !! Siber güvenlik üzerine konuşacağım. Beklerim. 🇦🇿 🇹🇷
+      * [https://www.youtube.com/watch?v=q5BQ_plKxQs](https://www.youtube.com/watch?v=q5BQ_plKxQs)
       
 </details>
 
