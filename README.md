@@ -642,6 +642,8 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
      * [https://www.youtube.com/watch?v=78e6n02mkYM](https://www.youtube.com/watch?v=78e6n02mkYM)
  17. Geliştiricilerin %99’u Bu Güvenlik Açığını Kodda Fark Edemiyor — Siz Görebilecek misiniz?
      * [https://www.youtube.com/watch?v=Owz-1fRV4bo](https://www.youtube.com/watch?v=Owz-1fRV4bo)
+ 18. Telnet servisinde bulunan 15 yıllık güvenlik açığı | CVE-2026-24061 şaka mı ?!
+     * [https://www.youtube.com/watch?v=45eKAGBH19k](https://www.youtube.com/watch?v=45eKAGBH19k)
 </details>
 
 <details>
